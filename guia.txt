@@ -1,0 +1,27 @@
+Guia de Iniciação à Fotografia Digital
+========================================
+
+Introdução
+-----------
+A fotografia digital abriu um leque de possibilidades para capturar momentos com facilidade e flexibilidade. 
+
+Com câmeras digitais, smartphones e editores de imagens, qualquer um pode se aventurar neste campo criativo.
+
+
+O Básico da Câmera Digital
+-----------------------------
+Antes de mais nada, familiarize-se com os principais componentes da sua câmera:
+
+* **Sensor**: o coração da câmera, captura a luz e cria a imagem.
+* **Lente**: controla a entrada de luz e foca a imagem no sensor.
+* **Diafragma**: ajusta a quantidade de luz que entra na câmera.
+* **Obturador**: controla o tempo durante o qual a luz atinge o sensor.
+
+Modos de Disparo
+------------------
+Explore os modos de disparo para entender melhor o controle criativo:
+
+* **Automático**: a câmera ajusta todas as configurações.
+* **Manual**: controle total sobre exposição, abertura, e velocidade do obturador.
+* **Prioridade de Abertura**: você escolhe a abertura, a câmera ajusta a velocidade do obturador.
+* **Prioridade de Velocidade**: você define a velocidade do obturador, a câmera cuida da abertura.
