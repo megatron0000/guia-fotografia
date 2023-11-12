@@ -17,11 +17,12 @@ Antes de mais nada, familiarize-se com os principais componentes da sua câmera:
 * **Diafragma**: ajusta a quantidade de luz que entra na câmera.
 * **Obturador**: controla o tempo durante o qual a luz atinge o sensor.
 
-Modos de Disparo
+Expansão do Guia
 ------------------
-Explore os modos de disparo para entender melhor o controle criativo:
+Este guia pode ser expandido para incluir técnicas avançadas como:
 
-* **Automático**: a câmera ajusta todas as configurações.
-* **Manual**: controle total sobre exposição, abertura, e velocidade do obturador.
-* **Prioridade de Abertura**: você escolhe a abertura, a câmera ajusta a velocidade do obturador.
-* **Prioridade de Velocidade**: você define a velocidade do obturador, a câmera cuida da abertura.
+* **Longa Exposição**: captura o movimento suave de elementos como água ou nuvens.
+* **ISO Elevado**: permite fotografar em condições de baixa luminosidade, aumentando a sensibilidade do sensor à luz.
+
+Ambas as técnicas requerem compreensão aprofundada da interação entre luz, tempo de exposição e sensibilidade do sensor, 
+podendo transformar completamente uma fotografia.
