@@ -17,12 +17,14 @@ Antes de mais nada, familiarize-se com os principais componentes da sua câmera:
 * **Diafragma**: ajusta a quantidade de luz que entra na câmera.
 * **Obturador**: controla o tempo durante o qual a luz atinge o sensor.
 
-Expansão do Guia
-------------------
-Este guia pode ser expandido para incluir técnicas avançadas como:
+ISO Elevado
+-------------
+O ISO mede a sensibilidade do sensor à luz. 
+Um ISO elevado pode ser a chave para fotografar em ambientes com pouca luz sem sacrificar a velocidade do obturador.
+Contudo, ISOs mais altos podem introduzir ruído/grão na imagem.
 
-* **Longa Exposição**: captura o movimento suave de elementos como água ou nuvens.
-* **ISO Elevado**: permite fotografar em condições de baixa luminosidade, aumentando a sensibilidade do sensor à luz.
+* **Configuração de ISO**: Aumente o ISO para capturar mais luz com rapidez.
+* **Compensações**: Esteja ciente do compromisso entre luminosidade e aumento de ruído.
+* **Pós-Processamento**: Programas modernos de edição podem reduzir eficientemente o ruído de imagens com ISO elevado.
 
-Ambas as técnicas requerem compreensão aprofundada da interação entre luz, tempo de exposição e sensibilidade do sensor, 
-podendo transformar completamente uma fotografia.
+Esta técnica é útil em eventos internos ou em cenas noturnas onde a iluminação é limitada.
