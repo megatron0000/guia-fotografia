@@ -17,12 +17,15 @@ Antes de mais nada, familiarize-se com os principais componentes da sua câmera:
 * **Diafragma**: ajusta a quantidade de luz que entra na câmera.
 * **Obturador**: controla o tempo durante o qual a luz atinge o sensor.
 
-Expansão do Guia
-------------------
-Este guia pode ser expandido para incluir técnicas avançadas como:
+Longa Exposição
+-----------------
+A técnica de longa exposição é fascinante, permitindo que fotógrafos criem imagens etéreas e dinâmicas. 
+Essencial para capturar cenas com baixa luminosidade ou movimento deliberadamente borrado, requer configurações específicas:
 
-* **Longa Exposição**: captura o movimento suave de elementos como água ou nuvens.
-* **ISO Elevado**: permite fotografar em condições de baixa luminosidade, aumentando a sensibilidade do sensor à luz.
+* **Tripé**: Para evitar tremidas, um tripé é essencial.
+* **Tempo de Exposição**: Aumente o tempo de exposição para segundos ou até minutos para permitir que movimentos sejam captados.
+* **Câmera**: Use um modo manual ou de prioridade de obturador para controlar precisamente a exposição.
+* **Filtro ND**: Um filtro de densidade neutra pode ser necessário para evitar superexposição durante o dia.
 
-Ambas as técnicas requerem compreensão aprofundada da interação entre luz, tempo de exposição e sensibilidade do sensor, 
-podendo transformar completamente uma fotografia.
+Exemplos práticos incluem fotografar cachoeiras com a água parecendo seda 
+ou ruas da cidade com luzes de carros traçando linhas através do quadro.
