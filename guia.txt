@@ -26,3 +26,6 @@ Essencial para capturar cenas com baixa luminosidade ou movimento deliberadament
 * **Tempo de Exposição**: Aumente o tempo de exposição para segundos ou até minutos para permitir que movimentos sejam captados.
 * **Câmera**: Use um modo manual ou de prioridade de obturador para controlar precisamente a exposição.
 * **Filtro ND**: Um filtro de densidade neutra pode ser necessário para evitar superexposição durante o dia.
+
+Exemplos práticos incluem fotografar cachoeiras com a água parecendo seda 
+ou ruas da cidade com luzes de carros traçando linhas através do quadro.
