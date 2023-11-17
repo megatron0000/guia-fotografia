@@ -29,3 +29,15 @@ Essencial para capturar cenas com baixa luminosidade ou movimento deliberadament
 
 Exemplos práticos incluem fotografar cachoeiras com a água parecendo seda 
 ou ruas da cidade com luzes de carros traçando linhas através do quadro.
+
+ISO Elevado
+-------------
+O ISO mede a sensibilidade do sensor à luz. 
+Um ISO elevado pode ser a chave para fotografar em ambientes com pouca luz sem sacrificar a velocidade do obturador.
+Contudo, ISOs mais altos podem introduzir ruído/grão na imagem.
+
+* **Configuração de ISO**: Aumente o ISO para capturar mais luz com rapidez.
+* **Compensações**: Esteja ciente do compromisso entre luminosidade e aumento de ruído.
+* **Pós-Processamento**: Programas modernos de edição podem reduzir eficientemente o ruído de imagens com ISO elevado.
+
+Esta técnica é útil em eventos internos ou em cenas noturnas onde a iluminação é limitada.
