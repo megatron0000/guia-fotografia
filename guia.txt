@@ -41,3 +41,17 @@ Contudo, ISOs mais altos podem introduzir ruído/grão na imagem.
 * **Pós-Processamento**: Programas modernos de edição podem reduzir eficientemente o ruído de imagens com ISO elevado.
 
 Esta técnica é útil em eventos internos ou em cenas noturnas onde a iluminação é limitada.
+
+Flash Fotográfico
+------------------
+O flash fotográfico é uma ferramenta poderosa para iluminar cenas, crucial especialmente 
+em ambientes de baixa luminosidade ou para alcançar efeitos fotográficos específicos. 
+Compreender seu uso pode elevar significativamente a qualidade das suas imagens:
+
+* **Tipos de Flash**: Existem basicamente dois tipos - o flash embutido, comum em câmeras compactas e smartphones, e o flash externo, que oferece maior potência e flexibilidade.
+* **Sincronização de Flash**: É a coordenação entre o disparo do flash e o obturador da câmera. A sincronização correta é crucial para garantir que o flash ilumine a cena no momento certo.
+* **Flash de Preenchimento**: Utilizado durante o dia para iluminar sombras, especialmente em retratos sob luz solar direta.
+* **Difusão e Direção**: Difusores podem suavizar a luz do flash, reduzindo sombras duras. Direcionar o flash para um teto ou parede pode criar uma iluminação mais natural e distribuída.
+* **Velocidade do Flash**: Refere-se à rapidez com que o flash dispara. Velocidades de flash rápidas podem congelar movimentos, enquanto velocidades mais lentas podem ser usadas para criar efeitos de movimento.
+
+O uso eficaz do flash requer prática. Experimente diferentes configurações e técnicas para entender como o flash afeta suas fotos em diversas condições de iluminação.
