@@ -1,3 +1,6 @@
+Guia de Iniciação à Fotografia Digital com Celular
+==================================================
+
 PREPARANDO SEU ESTÚDIO
 ========================================
 
@@ -14,3 +17,4 @@ O cenário: Fundo infinito
 Utilize um papel ou tecido posicionado de forma que ele não tenha uma dobra para criar a ilusão de um fundo infinito. 
 O papel ou tecido deve estar totalmente liso (um ferro de passar pode te ajudar).
 As mesmas dicas de cores se aplicam aqui: cores neutras combinam com tudo, apenas verifique se seu produto não vai sumir no fundo.
+=======
